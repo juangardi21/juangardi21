@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Let me show you what are the main projects which I'm working on my free time:
 - 📚 How to load and display data from some local or remote dataset : [Paging3 demo](https://github.com/juangardi21/paging3demo)
-- 🔐 Another secret project, at least for now, with Jetpack Compose, MVVM, Clean Architecture and modularization.
+- 🔐 Another secret project, at least for now, with Jetpack Compose, MVVM, Clean Architecture with modularization and dependency injection.
 
 ## Skills:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
