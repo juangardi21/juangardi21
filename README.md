@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 Let me show you what are the main projects which I'm working on my free time:
 - 📚 How to load and display data from local or remote datasets: [Paging3 demo](https://github.com/juangardi21/paging3demo)
+- 💰 In progres... How to create an android project from scratch with Clean Architecture and modularization: [Cryptocurrency](https://github.com/juangardi21/cryptocurrency)
 - 🔐 Another secret project, at least for now, with Jetpack Compose, MVVM, Clean Architecture with modularization and dependency injection.
 
 ## Skills:
